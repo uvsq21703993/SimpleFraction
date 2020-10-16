@@ -1,0 +1,6 @@
+# Dossier contenant TOUS les fichiers issus de la compilations
+/out
+# Dossier configuration IntelliJ IDEA
+/.idea
+# Fichiers configuration IntelliJ IDEA
+TD1_SERHAN_Wissam.iml
